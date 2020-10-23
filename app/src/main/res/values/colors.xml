@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#1a237e</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#140078</color>
+
+    <!-- Background color for app -->
+    <color name="background">#cfcfcf</color>
+
+    <!-- Background color for the hotels category -->
+    <color name="category_sleep">#ffffff</color>
+
+    <!-- Background color for the restaurants category -->
+    <color name="category_eat">#ffffff</color>
+
+    <!-- Background color for the parks category -->
+    <color name="category_breathe">#ffffff</color>
+
+    <!-- Background color for the museums category -->
+    <color name="category_learn">#ffffff</color>
+
+    <!-- Background color for the attractions category -->
+    <color name="category_play">#ffffff</color>
+</resources>

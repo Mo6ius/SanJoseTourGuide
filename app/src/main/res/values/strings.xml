@@ -1,0 +1,205 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">San Jose Tour Guide</string>
+
+    <!-- Category name for hotels [CHAR LIMIT=20] -->
+    <string name="category_sleep">Sleep</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_eat">Eat</string>
+
+    <!-- Category name for parks [CHAR LIMIT=20] -->
+    <string name="category_breathe">Breathe</string>
+
+    <!-- Category name for museums [CHAR LIMIT=20] -->
+    <string name="category_learn">Learn</string>
+
+    <!-- Category name for attractions [CHAR LIMIT=20] -->
+    <string name="category_play">Play</string>
+
+    <!-- Name of Almaden Quicksilver County Park -->
+    <string name="almaden">Almaden Quicksilver County Park</string>
+
+    <!-- Address of Almaden Quicksilver County Park -->
+    <string name="almaden_address">21785 Almaden Rd, San Jose, CA 95120</string>
+
+    <!-- Name of Alum Rock Park -->
+    <string name="alumrock">Alum Rock Park</string>
+
+    <!-- Address of Alum Rock Park -->
+    <string name="alumrock_address">15350 Penitencia Creek Rd, San Jose, CA 95127</string>
+
+    <!-- Name of Emma Prusch Farm Park -->
+    <string name="emmaprusch">Emma Prusch Farm Park</string>
+
+    <!-- Address of Emma Prusch Farm Park -->
+    <string name="emmaprusch_address">647 King Rd, San Jose, CA 95116</string>
+
+    <!-- Name of Happy Hollow Park & Zoo -->
+    <string name="happyhollow">Happy Hollow Park &amp; Zoo</string>
+
+    <!-- Address of Happy Hollow Park & Zoo -->
+    <string name="happyhollow_address">748 Story Rd, San Jose, CA 95112</string>
+
+    <!-- Name of Kelley Park -->
+    <string name="kelleypark">Kelley Park</string>
+
+    <!-- Address of Kelley Park -->
+    <string name="kelleypark_address">1300 Senter Rd, San Jose, CA 95112</string>
+
+    <!-- Name of San José Municipal Rose Garden -->
+    <string name="rosegarden">San José Municipal Rose Garden</string>
+
+    <!-- Address of San José Municipal Rose Garden -->
+    <string name="rosegarden_address">Dana Ave &amp; Naglee Ave, San Jose, CA 95112</string>
+
+    <!-- Name of Japantown -->
+    <string name="japantown">Japantown</string>
+
+    <!-- Address of Japantown -->
+    <string name="japantown_address">565 N 6th St, San Jose, CA 95112</string>
+
+    <!-- Name of Little Italy San José -->
+    <string name="littleitaly">Little Italy San José</string>
+
+    <!-- Address of Little Italy San José -->
+    <string name="littleitaly_address">323 W St. John St, San Jose, CA 95110</string>
+
+    <!-- Name of San José Flea Market -->
+    <string name="fleamarket">San José Flea Market</string>
+
+    <!-- Address of San José Flea Market -->
+    <string name="fleamarket_address">1590 Berryessa Rd, San Jose, CA 95133</string>
+
+    <!-- Name of San Pedro Square Market -->
+    <string name="sanpedro">San Pedro Square Market</string>
+
+    <!-- Address of San Pedro Square Market -->
+    <string name="sanpedro_address">87 N San Pedro St, San Jose, CA 95110</string>
+
+    <!-- Name of Santana Row -->
+    <string name="sanatarow">Santana Row</string>
+
+    <!-- Address of Santana Row -->
+    <string name="santanarow_address">377 Santana Row, San Jose, CA 95128</string>
+
+    <!-- Name of Vietnam Town -->
+    <string name="vietnamtown">Vietnam Town</string>
+
+    <!-- Address of Vietnam Town -->
+    <string name="vietnamtown_address">909&#8211;999 Story Rd, San Jose, CA 95122</string>
+
+    <!-- Name of Japanese American Museum of San Jose -->
+    <string name="japanmuseum">Japanese American Museum of San Jose</string>
+
+    <!-- Address of Japanese American Museum of San Jose -->
+    <string name="japanmuseum_address">535 N 5th St, San Jose, CA 95112</string>
+
+<!-- Name of Portuguese Historical Museum -->
+    <string name="portuguesemuseum">Portuguese Historical Museum</string>
+
+    <!-- Address of Portuguese Historical Museum -->
+    <string name="portuguesemuseum_address">1650 Senter Rd, San Jose, CA 95112</string>
+
+    <!-- Name of Rosicrucian Egyptian Museum -->
+    <string name="rosicrucian">Rosicrucian Egyptian Museum</string>
+
+    <!-- Address of Rosicrucian Egyptian Museum -->
+    <string name="rosicrucian_address">1660 Park Ave, San Jose, CA 95191</string>
+
+    <!-- Name of San Jose McEnery Convention Center -->
+    <string name="mcenerycenter">San Jose McEnery Convention Center</string>
+
+    <!-- Address of San Jose McEnery Convention Center -->
+    <string name="mcenerycenter_address">150 W San Carlos St, San Jose, CA 95113</string>
+
+    <!-- Name of Viet Museum -->
+    <string name="vietmuseum">Viet Museum</string>
+
+    <!-- Address of Viet Museum -->
+    <string name="vietmuseum_address">1650 Senter Rd, San Jose, CA 95122</string>
+
+    <!-- Name of Winchester Mystery House -->
+    <string name="winchester">Winchester Mystery House</string>
+
+    <!-- Address of Winchester Mystery House -->
+    <string name="winchester_address">525 S Winchester Blvd, San Jose, CA 95128</string>
+
+    <!-- Name of Casino M8trix -->
+    <string name="m8trix">Casino M8trix</string>
+
+    <!-- Address of Casino M8trix -->
+    <string name="m8trix_address">1887 Matrix Blvd, San Jose, CA 95110</string>
+
+    <!-- Name of ComedySportz -->
+    <string name="csz">ComedySportz</string>
+
+    <!-- Address of ComedySportz -->
+    <string name="csz_address">288 S 2nd St, San Jose, CA 95113</string>
+
+    <!-- Name of OMESCAPE -->
+    <string name="omescape">OMESCAPE</string>
+
+    <!-- Address of OMESCAPE -->
+    <string name="omescape_address">625 Wool Creek Dr E, San Jose, CA 95112</string>
+
+    <!-- Name of Raging Waters San Jose -->
+    <string name="ragingwaters">Raging Waters San Jose</string>
+
+    <!-- Address of Raging Waters San Jose -->
+    <string name="ragingwaters_address">2333 S White Rd, San Jose, CA 95148</string>
+
+    <!-- Name of Rockin' Jump Trampoline Park -->
+    <string name="trampoline">Rockin\' Jump Trampoline Park</string>
+
+    <!-- Address of Rockin' Jump Trampoline Park -->
+    <string name="trampoline_address">1901 Monterey Rd #20, San Jose, CA 95112</string>
+
+    <!-- Name of SAP Center -->
+    <string name="sap">SAP Center</string>
+
+    <!-- Address of SAP Center -->
+    <string name="sap_address">525 W Santa Clara St, San Jose, CA 95113</string>
+
+    <!-- Name of Fairmont San Jose -->
+    <string name="fairmont">Fairmont San Jose</string>
+
+    <!-- Address of Fairmont San Jose -->
+    <string name="fairmont_address">170 S Market St, San Jose, CA 95113</string>
+
+    <!-- Name of Hotel De Anza -->
+    <string name="deanza">Hotel De Anza</string>
+
+    <!-- Address of Hotel De Anza -->
+    <string name="deanza_address">233 W Santa Clara St, San Jose, CA 95113</string>
+
+    <!-- Name of Hotel Valencia Santana Row -->
+    <string name="valencia">Hotel Valencia Santana Row</string>
+
+    <!-- Address of Hotel Valencia Santana Row -->
+    <string name="valencia_address">355 Santana Row, San Jose, CA 95128</string>
+
+    <!-- Name of Hyatt Place San Jose -->
+    <string name="hyatt">Hyatt Place San Jose</string>
+
+    <!-- Address of Hyatt Place San Jose -->
+    <string name="hyatt_address">282 Almaden Blvd, San Jose, CA 95113</string>
+
+    <!-- Name of San Jose Marriott -->
+    <string name="marriott">San Jose Marriott</string>
+
+    <!-- Address of San Jose Marriott -->
+    <string name="marriott_address">301 S Market St, San Jose, CA 95113</string>
+
+    <!-- Name of The Hayes Mansion -->
+    <string name="hayesmansion">The Hayes Mansion</string>
+
+    <!-- Address of The Hayes Mansion -->
+    <string name="hayesmansion_address">200 Edenvale Ave, San Jose, CA 95136</string>
+
+    <!-- Name of The Westin San Jose -->
+    <string name="westin">The Westin San Jose</string>
+
+    <!-- Address of The Westin San Jose -->
+    <string name="westin_address">302 S Market St, San Jose, CA 95113</string>
+</resources>
